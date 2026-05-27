@@ -4,12 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=320&section=header&text=Edson%20Edwin%20Ninan&fontSize=65&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+repeat();+%7D;Backend+Engineer+Grinding+LeetCode;DevOps+Guy+Who+Talks+To+Servers;Turning+Coffee+Into+Scalable+Systems;Linux+Enthusiast+%7C+Cloud+Explorer;Trying+Not+To+Break+Production..." />
-
 <br/><br/>
 
 <img src="mp4.gif" width="800" alt="Anime Header Animation" />
