@@ -1,106 +1,68 @@
-<!-- Header Section -->
+<!-- Terminal Banner -->
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Edson%20Edwin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20AI&descAlignY=55&descAlign=60" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;Cloud+%26+Linux+Enthusiast;Networking+%26+Cybersecurity+Learner;Python+%7C+Java+%7C+AI+Developer" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/matrix.gif" width="100%" alt="Matrix Banner" />
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- Simulated Terminal Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=800&height=100&lines=edson@linux:~%24+whoami;Edson+Edwin+Ninan;edson@linux:~%24+./fetch_stack.sh;[+]++DevOps+%7C+Cloud+%7C+Linux+%7C+AI;edson@linux:~%24+echo+%22Welcome+to+my+root+directory.%22" alt="Terminal Typing" />
 
-<br/><br/>
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="450" />
+<!-- Terminal-Styled Contact Badges -->
+<a href="https://www.linkedin.com/in/edson-edwin-ninan/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=20C20E&color=000000&labelColor=000000" alt="LinkedIn" /></a>
+<a href="mailto:edsonedwin01@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=20C20E&color=000000&labelColor=000000" alt="Email" /></a>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-### 👨🏻‍💻 About Me
+### 🟢 `sys_info --about`
 
-```yaml
-Name: Edson Edwin
-Location: Kerala, India
-Current_Focus: 
-  - DevOps & Cloud Computing
-  - Linux Administration & Networking
-  - Cybersecurity & Generative AI
-Building_With: [Python, Java, Docker, Kubernetes, AWS]
-Goal: "Architect and build scalable, secure, and intelligent infrastructure."
+```bash
+user@linux-server:~$ cat /etc/edson/profile.conf
+NAME="Edson Edwin Ninan"
+LOCATION="Kerala, India"
+FOCUS="DevOps, Cloud Computing, Linux Administration, AI"
+MISSION="Architect and build scalable, secure, and intelligent infrastructure."
 ```
 
 ---
 
-<!-- Tech Stack Section -->
-### 🚀 Tech Stack
+### 🟢 `ls -la /usr/bin/skills`
 
 <div align="center">
-
-**Programming & Scripting**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-**Cloud, DevOps & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,ubuntu,nginx&theme=dark" alt="DevOps & Cloud" />
-
-<br/><br/>
-
-**Tools & Workflows**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman&theme=dark" alt="Tools" />
-
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vim,docker,kubernetes,aws,python,java,git,github,nginx,postman&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-### 📈 GitHub Analytics
+### 🟢 `htop --user edson`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edson-Edwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F7FF" alt="Edson's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-Edwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Edson-Edwin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=dark&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&dates=20C20E" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=tokyonight&hide_border=true&background=0D1117&fire=00F7FF" alt="GitHub Streak" />
+  <!-- Matrix Theme Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Edson-Edwin&theme=matrix&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
 
-<!-- GitHub Trophies Section -->
-### 🏆 Trophies
+### 🟢 `netstat -an | grep ESTABLISHED`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Edson-Edwin&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=TOTAL_CONNECTIONS&color=20C20E&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </div>
 
----
-
-<!-- Contribution Snake Section -->
-### 🐍 Contribution Activity
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/github-contribution-grid-snake.svg">
-  </picture>
   <br/>
-  <em>* Set up a GitHub Action to generate this snake animation dynamically!</em>
-</div>
-
----
-
-<!-- Footer Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+  <code>user@linux-server:~$ exit</code><br/>
+  <code>Connection to host closed.</code>
 </div>
