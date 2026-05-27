@@ -75,7 +75,7 @@ Status:
 
 ## 🧩 Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django,microservices&theme=dark"/>
 
 <br/><br/>
 
