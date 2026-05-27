@@ -69,19 +69,19 @@ Status:
 
 ## ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,kafka&theme=dark"/>
 
 <br/><br/>
 
 ## 🧩 Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django&theme=dark"/>
 
 <br/><br/>
 
 ## 🛠 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark"/>
 
 </div>
 
