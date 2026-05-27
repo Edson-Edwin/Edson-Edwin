@@ -1,4 +1,3 @@
-````markdown
 <!-- ========================================================= -->
 <!--                    ⚡ CYBERPUNK README ⚡                  -->
 <!-- ========================================================= -->
@@ -60,7 +59,7 @@ Daily Routine:
 
 Status:
   "Transforming caffeine into scalable systems ☕"
-````
+```
 
 ---
 
@@ -120,9 +119,7 @@ Status:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Edson-Edwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br/><br/>
 
@@ -176,7 +173,9 @@ while True:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/snake.svg"/>
+<!-- ⚠️ Note: Setup a GitHub Action to generate this snake animation first! -->
+<!-- <img src="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/snake.svg" alt="Snake Animation" /> -->
+<em>* Snake animation will appear here once the GitHub Action is configured!</em>
 
 </div>
 
@@ -225,4 +224,3 @@ Never stop learning.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
-```
