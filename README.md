@@ -1,14 +1,15 @@
 <!-- Header Section -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Edson%20Edwin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Backend&descAlignY=55&descAlign=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Edson%20Edwin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=55&descAlign=60" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Networking+%26+Backend+Engineer;Python+%7C+Java+%7C+Spring+Boot+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Data+Structures+%26+Algorithms;DevOps+%26+Cloud+Specialist;Python+%7C+Java+%7C+Spring+Boot+Developer" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://linkedin.com/in/edson-edwin-ninan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:edsonedwin01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/Edson-Edwin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 <br/><br/>
 
@@ -25,9 +26,10 @@
 Name: Edson Edwin
 Location: Kerala, India
 Expertise: 
+  - Backend Development & Databases
+  - Data Structures & Algorithms (LeetCode)
   - DevOps & Cloud Computing
   - Linux Administration & Networking
-  - Backend Development & Databases
 Building_With: [Python, Java, Docker, AWS, MySQL, PostgreSQL, MongoDB, Kafka, Spring Boot, Django, REST API]
 Goal: "Architect and build scalable, secure, and intelligent infrastructure."
 ```
