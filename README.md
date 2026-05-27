@@ -1,11 +1,11 @@
 ````markdown
 <!-- ========================================================= -->
-<!--                    CYBERPUNK HEADER                       -->
+<!--                    ⚡ CYBERPUNK README ⚡                  -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=320&section=header&text=Edson%20Edwin&fontSize=75&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Architect&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Edson%20Edwin&fontSize=75&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20"/>
 
 <br/>
 
@@ -40,7 +40,8 @@
 # 🧠 The Story So Far...
 
 ```yaml
-Origin: Kerala, India 🇮🇳
+Name: Edson Edwin
+Location: Kerala, India 🇮🇳
 
 Current Mission:
   - Master Backend Engineering
@@ -51,9 +52,10 @@ Current Mission:
 
 Daily Routine:
   - Solve LeetCode
-  - Debug Something Random
-  - Break Docker Containers
+  - Debug Random Errors
   - Read Docs
+  - Break Docker Containers
+  - Fix Docker Containers
   - Repeat
 
 Status:
@@ -74,7 +76,7 @@ Status:
 
 ## ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,kubernetes,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions&theme=dark"/>
 
 <br/><br/>
 
@@ -109,7 +111,7 @@ Status:
 
 - Sleep Schedule
 - Free Disk Space
-- Mental Stability after debugging
+- Sanity During Debugging
 ```
 
 ---
@@ -194,7 +196,7 @@ while True:
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.”
 
 </div>
 
@@ -210,9 +212,9 @@ while True:
 
 ---
 
-<div align="center">
+# 🚀 Final Mission
 
-## 🚀 Final Mission
+<div align="center">
 
 ```text
 Build systems that scale.
@@ -220,7 +222,7 @@ Write code that matters.
 Never stop learning.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
 ```
