@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzhoYzJvcG5penV1aTBxczB1bjB2emdjbGoyZmp5NTN0Z2UwdDNmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="700"/>
+<img src="https://i.pinimg.com/originals/f6/88/ab/f688ab9135a5078a9c80d87a6c9d7a64.gif" width="700"/>
 
 <br/><br/>
 
@@ -127,15 +127,7 @@ Status:
 
 </div>
 
----
 
-# 🏆 Achievements Unlocked
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Edson-Edwin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
 
 ---
 
@@ -179,15 +171,7 @@ while True:
 
 </div>
 
----
 
-# 🎵 Coding Vibes
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31n2cfz7q6w5ev4g4ghh4sj3p7qq&cover_image=true&theme=novatorem"/>
-
-</div>
 
 ---
 
