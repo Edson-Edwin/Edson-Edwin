@@ -69,7 +69,7 @@ Status:
 
 ## ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions,kafka&theme=dark"/>
 
 <br/><br/>
 
@@ -161,7 +161,7 @@ while True:
 
 <!-- ⚠️ Note: Setup a GitHub Action to generate this snake animation first! -->
 <!-- <img src="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/snake.svg" alt="Snake Animation" /> -->
-<em>* Snake animation will appear here once the GitHub Action is configured!</em>
+<em>* Working on it</em>
 
 </div>
 
@@ -183,7 +183,7 @@ while True:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Visitors&color=58A6FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Visitors&style=for-the-badge"/>
 
 </div>
 
