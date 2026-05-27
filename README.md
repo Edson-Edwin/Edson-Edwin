@@ -28,7 +28,7 @@ Current_Focus:
   - DevOps & Cloud Computing
   - Linux Administration & Networking
   - Cybersecurity & Generative AI
-Building_With: [Python, Java, Docker, AWS]
+Building_With: [Python, Java, Docker, AWS, MySQL, PostgreSQL, MongoDB, Kafka, Spring Boot, Django, REST API]
 Goal: "Architect and build scalable, secure, and intelligent infrastructure."
 ```
 
@@ -46,6 +46,11 @@ Goal: "Architect and build scalable, secure, and intelligent infrastructure."
 
 **Cloud, DevOps & Infrastructure**<br/>
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx&theme=dark" alt="DevOps & Cloud" />
+
+<br/><br/>
+
+**Databases, Frameworks & Messaging**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django,kafka&theme=dark" alt="Databases & Frameworks" />
 
 <br/><br/>
 
