@@ -10,11 +10,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+repeat();+%7D;Backend+Engineer+Grinding+LeetCode;DevOps+Guy+Who+Talks+To+Servers;Turning+Coffee+Into+Scalable+Systems;Linux+Enthusiast+%7C+Cloud+Explorer;Trying+Not+To+Break+Production..." />
 
-<br/><br/>
 
-<img src="https://i.pinimg.com/originals/f6/88/ab/f688ab9135a5078a9c80d87a6c9d7a64.gif" width="700"/>
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/edson-edwin-ninan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
