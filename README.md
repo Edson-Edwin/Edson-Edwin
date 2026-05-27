@@ -4,16 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Edson%20Edwin%20Ninan&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=320&section=header&text=Edson%20Edwin%20Ninan&fontSize=65&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+repeat();+%7D;Backend+Engineer+Grinding+LeetCode;DevOps+Guy+Who+Talks+To+Servers;Turning+Coffee+Into+Scalable+Systems;Linux+Enthusiast+%7C+Cloud+Explorer;Trying+Not+To+Break+Production..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+repeat();+%7D;Backend+Engineer+Grinding+LeetCode;DevOps+Guy+Who+Talks+To+Servers;Turning+Coffee+Into+Scalable+Systems;Linux+Enthusiast+%7C+Cloud+Explorer;Trying+Not+To+Break+Production..." />
 
 <br/><br/>
-
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="550" alt="Funny Anime Coding" />
-
 <br/><br/>
 
 <a href="https://linkedin.com/in/edson-edwin-ninan">
@@ -39,7 +36,7 @@
 # 🧠 The Story So Far...
 
 ```yaml
-Name: Edson Edwin
+Name: Edson Edwin Ninan
 Location: Kerala, India 🇮🇳
 
 Current Mission:
@@ -119,11 +116,11 @@ Status:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edson-Edwin&theme=tokyonight"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edson-Edwin&theme=github_dark"/>
 
 </div>
 
@@ -189,7 +186,7 @@ while True:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Visitors&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Visitors&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
@@ -205,6 +202,6 @@ Write code that matters.
 Never stop learning.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=140&section=footer"/>
 
 </div>
