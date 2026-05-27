@@ -3,7 +3,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Edson%20Edwin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Backend&descAlignY=55&descAlign=60" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;Cloud+%26+Linux+Enthusiast;Networking+%26+Backend+Learner;Python+%7C+Java+%7C+Spring+Boot+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Networking+%26+Backend+Engineer;Python+%7C+Java+%7C+Spring+Boot+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 ```yaml
 Name: Edson Edwin
 Location: Kerala, India
-Current_Focus: 
+Expertise: 
   - DevOps & Cloud Computing
   - Linux Administration & Networking
   - Backend Development & Databases
