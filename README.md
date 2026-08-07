@@ -1,201 +1,77 @@
-
 <div align="center">
 
-<br/><br/>
+# Edson Edwin Ninan
+### Software Developer — Backend & Cloud-Native Systems
 
-<img src="mp4.gif" width="800" alt="Anime Header Animation" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/edson-edwin-ninan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:edsonedwin01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Edson-Edwin/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Edson-Edwin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-edwin-ninan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonedwin01@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Edson-Edwin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edson-Edwin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.edsonedwinninan.online)
 
 </div>
 
 ---
 
-# 🧠 The Story So Far...
+## About
 
-```yaml
-Name: Edson Edwin Ninan
-Location: Kerala, India 🇮🇳
+Software Engineer with hands-on experience building scalable backend systems using **Java, Spring Boot, and Python**. I design and deploy REST APIs and microservices, and have shipped production-style projects on **AWS** using **Docker, Terraform, and CI/CD** pipelines.
 
-Current Mission:
-  - Master Backend Engineering
-  - Build Cloud Infrastructure
-  - Learn Distributed Systems
-  - Automate Everything Possible
-  - Survive Linux Errors
-
-Daily Routine:
-  - Solve LeetCode
-  - Debug Random Errors
-  - Read Docs
-  - Break Docker Containers
-  - Fix Docker Containers
-  - Repeat
-
-Status:
-  "Transforming caffeine into scalable systems ☕"
-```
+Currently pursuing my MCA at Amal Jyothi College of Engineering (CGPA: 8.86), with cloud/DevOps experience gained through an internship at IPSR Solutions covering AWS, Azure, Terraform, and Ansible.
 
 ---
 
-# ⚔️ Character Skills
+## Tech Stack
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bash&theme=dark" height="40"/>
+
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=spring,django,mysql,postgres,mongodb&theme=dark" height="40"/>
+
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx&theme=dark" height="40"/>
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="40"/>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **LuxeStay** | Full-stack hotel management platform | Django REST Framework, Next.js, MySQL, AWS EC2, S3 |
+| **Rider Sync** | AI-powered ride-sharing platform (ongoing) | Spring Boot, FastAPI, PostgreSQL, Docker, Terraform, Gemini API |
+| **SkillSwap** | Peer-to-peer learning platform with real-time messaging | Java (Android), Django REST Framework, WebSockets, JWT |
+| **Docker Monitoring Stack** | Container and service monitoring setup | Docker, Prometheus-style monitoring |
+| **DevOps Automation Scripts** | Infrastructure automation utilities | Bash, Python |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-## 👨‍💻 Languages
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash&theme=dark"/>
-
-<br/><br/>
-
-## ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions,kafka&theme=dark"/>
-
-<br/><br/>
-
-## 🧩 Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,django,microservices&theme=dark"/>
-
-<br/><br/>
-
-## 🛠 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edson-Edwin&theme=github_dark" width="49%"/>
 
 </div>
 
 ---
 
-# 🌀 Current Arc
+## Currently Focused On
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-
-</div>
-
-```diff
-+ Learning System Design
-+ Building Backend APIs
-+ Practicing DSA Daily
-+ Exploring Cloud Infrastructure
-+ Studying Networking Internals
-
-- Sleep Schedule
-- Free Disk Space
-- Sanity During Debugging
-```
+- System design fundamentals
+- Backend API architecture and scalability
+- Cloud infrastructure and Infrastructure-as-Code
+- Data structures & algorithms practice
 
 ---
 
-# 📊 Battle Statistics
+## Let's Connect
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edson-Edwin&theme=github_dark"/>
-
-</div>
-
-
-
----
-
-# 🧪 Current Experiments
-
-| Project                     | Description                                    |
-| --------------------------- | ---------------------------------------------- |
-| 🤖 AI Interview Analyzer    | AI-powered interview emotion & speech analysis |
-| 🌐 Java TCP Server          | Low-level socket programming                   |
-| 🐳 Docker Monitoring Stack  | Monitoring containers & services               |
-| ⚡ DevOps Automation Scripts | Bash & Python automation                       |
-| 🔐 Networking Labs          | DNS, Routing, TCP/IP practicals                |
-
----
-
-# 💀 Debugging Experience
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
-
-</div>
-
-```python
-while True:
-    code()
-    bug()
-    fix()
-    another_bug()
-```
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- ⚠️ Note: Setup a GitHub Action to generate this snake animation first! -->
-<!-- <img src="https://raw.githubusercontent.com/Edson-Edwin/Edson-Edwin/output/snake.svg" alt="Snake Animation" /> -->
-<em>* Working on it</em>
-
-</div>
-
-
-
----
-
-# ☕ Developer Quote
-
-<div align="center">
-
-> “First, solve the problem. Then, write the code.”
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Edson-Edwin&label=Visitors&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 Final Mission
-
-<div align="center">
-
-```text
-Build systems that scale.
-Write code that matters.
-Never stop learning.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=140&section=footer"/>
+I'm open to Software Developer and Backend Engineer roles. Feel free to reach out via [LinkedIn](https://linkedin.com/in/edson-edwin-ninan) or [email](mailto:edsonedwin01@gmail.com).
 
 </div>
