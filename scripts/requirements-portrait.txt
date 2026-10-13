@@ -1,0 +1,4 @@
+# Only needed when regenerating the portrait. The daily workflow uses stdlib.
+Pillow>=10,<13
+numpy>=1.26,<3
+opencv-python-headless>=4.9,<5

@@ -1,43 +1,41 @@
 <div align="center">
 
-# Edson Edwin Ninan
-### Software Developer — Backend & Cloud-Native Systems
+### `edson@github ~ $ ./contributions.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-edwin-ninan)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonedwin01@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Edson-Edwin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edson-Edwin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.edsonedwinninan.online)
+<img src="./contrib-heatmap.svg" width="860" alt="Edson's GitHub contribution calendar, refreshed daily" />
+
+<br><br>
+
+### `edson@github ~ $ whoami`
+
+<table>
+  <tr>
+    <td valign="top"><img src="./edson-ascii.svg" width="370" alt="Animated monochrome ASCII portrait of Edson Edwin Ninan" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Edson Edwin Ninan — Software Developer focused on backend and cloud-native systems; Java, Spring Boot, Python, AWS, Docker, and Terraform" /></td>
+  </tr>
+</table>
+
+**[Portfolio](https://www.edsonedwinninan.online) · [LinkedIn](https://linkedin.com/in/edson-edwin-ninan) · [Email](mailto:edsonedwin01@gmail.com) · [LeetCode](https://leetcode.com/u/Edson-Edwin/)**
 
 </div>
 
----
+### `edson@github ~ $ cat about.md`
 
-## About
+I'm **Edson Edwin Ninan**, a Software Developer focused on **backend and cloud-native systems**. I build REST APIs and microservices with **Java, Spring Boot, and Python**, and deploy projects on **AWS** with **Docker, Terraform, and CI/CD**.
 
-Software Engineer with hands-on experience building scalable backend systems using **Java, Spring Boot, and Python**. I design and deploy REST APIs and microservices, and have shipped production-style projects on **AWS** using **Docker, Terraform, and CI/CD** pipelines.
+Currently pursuing my **MCA at Amal Jyothi College of Engineering (CGPA: 8.86)**. My cloud and DevOps internship at **IPSR Solutions** covered AWS, Azure, Terraform, and Ansible.
 
-Currently pursuing my MCA at Amal Jyothi College of Engineering (CGPA: 8.86), with cloud/DevOps experience gained through an internship at IPSR Solutions covering AWS, Azure, Terraform, and Ansible.
+### `edson@github ~ $ ls stack/`
 
----
+| Area | Technologies |
+|:---|:---|
+| Languages | Java, Python, JavaScript, Bash, HTML, CSS |
+| Backend | Spring Boot, Django, Django REST Framework, FastAPI |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Cloud & DevOps | AWS, Azure, Docker, Terraform, Ansible, Linux, GitHub Actions, Nginx |
+| Tools | Git, GitHub, VS Code, Postman |
 
-## Tech Stack
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bash&theme=dark" height="40"/>
-
-**Backend & Databases**
-<img src="https://skillicons.dev/icons?i=spring,django,mysql,postgres,mongodb&theme=dark" height="40"/>
-
-**Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx&theme=dark" height="40"/>
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="40"/>
-
----
-
-## Featured Projects
+### `edson@github ~ $ ls projects/`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -47,31 +45,15 @@ Currently pursuing my MCA at Amal Jyothi College of Engineering (CGPA: 8.86), wi
 | **Docker Monitoring Stack** | Container and service monitoring setup | Docker, Prometheus-style monitoring |
 | **DevOps Automation Scripts** | Infrastructure automation utilities | Bash, Python |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edson-Edwin&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edson-Edwin&theme=github_dark" width="49%"/>
-
-</div>
-
----
-
-## Currently Focused On
+### `edson@github ~ $ cat now.txt`
 
 - System design fundamentals
 - Backend API architecture and scalability
 - Cloud infrastructure and Infrastructure-as-Code
 - Data structures & algorithms practice
 
----
-
-## Let's Connect
+### `edson@github ~ $ ./connect.sh`
 
 I'm open to Software Developer and Backend Engineer roles. Feel free to reach out via [LinkedIn](https://linkedin.com/in/edson-edwin-ninan) or [email](mailto:edsonedwin01@gmail.com).
 
-</div>
+<sub>Portrait and cards are generated locally as animated SVGs. The contribution calendar refreshes daily through GitHub Actions. [Generation scripts](./scripts/README.md).</sub>

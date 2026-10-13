@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="420" viewBox="0 0 490 420" role="img" aria-labelledby="title desc">
+<title id="title">Edson Edwin Ninan — developer profile</title><desc id="desc">edson@github: ~</desc>
+<style>
+text { font-family: "DejaVu Sans Mono", Consolas, monospace; }
+.muted { fill: #8b949e; }
+.bright { fill: #e6edf3; }
+.accent { fill: #7ee787; }
+@keyframes appear { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+.reveal { animation: appear .35s both; }
+@media (prefers-reduced-motion: reduce) { .reveal { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="489" height="419" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 39H489" stroke="#30363d"/>
+<circle cx="19" cy="20" r="4" fill="#ff5f57"/><circle cx="34" cy="20" r="4" fill="#febc2e"/><circle cx="49" cy="20" r="4" fill="#28c840"/>
+<text x="472" y="24" text-anchor="end" class="muted" font-size="10">edson@github: ~</text>
+<g class="reveal" style="animation-delay:0.15s"><text x="22" y="66" class="accent" font-size="13" xml:space="preserve" >$ neofetch</text></g>
+<g class="reveal" style="animation-delay:0.25s"><text x="22" y="100" class="bright" font-size="20" xml:space="preserve" >Edson Edwin Ninan</text></g>
+<g class="reveal" style="animation-delay:0.35s"><text x="22" y="122" class="muted" font-size="12" xml:space="preserve" >----------------------------</text></g>
+<g class="reveal" style="animation-delay:0.45s"><text x="22" y="151" class="bright" font-size="12" xml:space="preserve" >Role     Software Developer</text></g>
+<g class="reveal" style="animation-delay:0.55s"><text x="22" y="174" class="bright" font-size="12" xml:space="preserve" >Focus    Backend &amp; Cloud-Native Systems</text></g>
+<g class="reveal" style="animation-delay:0.65s"><text x="22" y="197" class="bright" font-size="12" xml:space="preserve" >Stack    Java / Spring Boot / Python</text></g>
+<g class="reveal" style="animation-delay:0.75s"><text x="22" y="220" class="bright" font-size="12" xml:space="preserve" >Cloud    AWS / Docker / Terraform</text></g>
+<g class="reveal" style="animation-delay:0.85s"><text x="22" y="243" class="bright" font-size="12" xml:space="preserve" >Data     PostgreSQL / MySQL / MongoDB</text></g>
+<g class="reveal" style="animation-delay:0.95s"><text x="22" y="266" class="bright" font-size="12" xml:space="preserve" >Study    MCA · Amal Jyothi College</text></g>
+<g class="reveal" style="animation-delay:1.05s"><text x="22" y="286" class="muted" font-size="12" xml:space="preserve" >         of Engineering · CGPA 8.86</text></g>
+<g class="reveal" style="animation-delay:1.15s"><text x="22" y="311" class="bright" font-size="12" xml:space="preserve" >Prev     Cloud &amp; DevOps intern @ IPSR</text></g>
+<g class="reveal" style="animation-delay:1.25s"><text x="22" y="334" class="bright" font-size="12" xml:space="preserve" >Build    REST APIs / Microservices / CI/CD</text></g>
+<g class="reveal" style="animation-delay:1.35s"><text x="22" y="370" class="accent" font-size="12" xml:space="preserve" >Open to  Software &amp; Backend Engineer roles</text></g>
+<rect x="22" y="390" width="17" height="8" rx="2" fill="#7ee787"/>
+<rect x="44" y="390" width="17" height="8" rx="2" fill="#58a6ff"/>
+<rect x="66" y="390" width="17" height="8" rx="2" fill="#d2a8ff"/>
+<rect x="88" y="390" width="17" height="8" rx="2" fill="#ffa657"/>
+<rect x="110" y="390" width="17" height="8" rx="2" fill="#ff7b72"/>
+<rect x="132" y="390" width="17" height="8" rx="2" fill="#e6edf3"/>
+</svg>
